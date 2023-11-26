@@ -11,5 +11,10 @@ class AssetsManager
   static String embedded = 'assets/images/embedded.jpg';
   static String mobiles = 'assets/images/mobiles.jpg';
   static String computerAcc = 'assets/images/computer-acc.png';
+  static String shoppingCart = 'assets/images/shopping_cart.png';
+  static String successful = 'assets/images/successful.png';
+  static String warning = 'assets/images/warning.png';
+  static String emptySearch = 'assets/images/empty_search.png';
+
 
 }
