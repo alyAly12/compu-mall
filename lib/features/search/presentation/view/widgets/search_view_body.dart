@@ -1,7 +1,5 @@
 import 'package:digital_store/features/search/presentation/view/widgets/all_products_widget.dart';
-import 'package:digital_store/features/search/presentation/view/widgets/product_search_grid_view.dart';
 import 'package:flutter/material.dart';
-
 import 'custom_search_text_field.dart';
 
 class SearchViewBody extends StatefulWidget {

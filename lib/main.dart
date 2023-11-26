@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp.router(
       theme: ThemeData.dark().copyWith(
+        bottomSheetTheme: const BottomSheetThemeData(backgroundColor: AppColors.darkScaffoldColor),
         appBarTheme: const AppBarTheme(
           backgroundColor: AppColors.darkScaffoldColor
         ),
